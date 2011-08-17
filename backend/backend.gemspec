@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'backend'
-  s.version     = '0.0.1'
+  s.version     = '0.0.2'
   s.summary     = 'sample backend-module for neo4j-script extension'
   s.description = 'sample backend-module for neo4j-script extension.'
 

@@ -1,2 +1,2 @@
 source :rubygems
-gem 'backend', :git => "git://github.com/tbaum/script-extension-example.git"
+gem 'backend', :git => "git://github.com/hallgren/script-extension-example.git"
